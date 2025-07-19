@@ -20,12 +20,4 @@ Useful for system administrators, IT students, or help desk technicians to quick
 - PowerShell 5.1+
 - Run as Administrator for best results
 
----
 
-## 🛠️ How to Use
-
-1. **Download or Clone this Repository:**
-
-```bash
-git clone https://github.com/YOUR_USERNAME/SystemInventoryScript.git
-cd SystemInventoryScript
